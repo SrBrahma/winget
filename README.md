@@ -21,3 +21,5 @@ winget install -e --id Docker.DockerDesktop
 Check for installation before so it can be run even if system has stuff installed already.
 
 Also, create separated packs such as Dev and Fun so Dev can be installed on temporary machines.
+
+Custom installations could be done by a `npx` script.
