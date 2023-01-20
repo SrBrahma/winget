@@ -7,6 +7,7 @@ https://winstall.app/packs/B-8zze6Wn
 # Others
 ```
 winget install -e --id Docker.DockerDesktop
+winget install -e --id Google.AndroidStudio
 ```
 
 ## TODO
