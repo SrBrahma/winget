@@ -21,6 +21,6 @@ winget install -e --id Google.AndroidStudio
 
 Check for installation before so it can be run even if system has stuff installed already.
 
-Also, create separated packs such as Dev and Fun so Dev can be installed on temporary machines.
+Also, create separated packs such as Dev, Mobile and Fun so Dev can be installed on temporary machines.
 
 Custom installations could be done by a `npx` script.
